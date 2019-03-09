@@ -12,7 +12,7 @@
 
 Simply put, "UC Comment Management" introduces a new area in the administrative dashboard that allows you to see what comments to which you - as the site author - have not yet replied.
 
-This project has been adopted from the WordPress Adopt Me program: https://wordpress.org/plugins/tags/adopt-me/ and forked from pippinsplugins/Comments-Not-Replied-To
+This project has been adopted from the WordPress Adopt Me program: https://wordpress.org/plugins/tags/adopt-me/ and forked from pippinsplugins/Comments-Not-Replied-To. We are currently in development planning if you'd like to join the project above.
 
 ## Installation
 
